@@ -12,7 +12,7 @@ AI is replacing Humans????, Then why humans building it?
 
 
 
-![image](https://ibb.co/DpPbzq8)
+![image](https://postimg.cc/hXmmNzP7)
 
 AI has been the most trending topic since GPT-3.5 was launched, and AI is improving its abilities. Now GPT-3 has become GPT-4, MidJourney generating OP images with just a prompt, there are thousands of AI tools available on the internet. But these all are threatening to us??, then why people still developing AI tools?? I asked myself this question and did a small research about it. So, In this article, we are trying to figure out that.
 
